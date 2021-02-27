@@ -15,5 +15,5 @@ A comprehensive analysis of differential gene expression matrix from The Cancer 
 3. Run the script step by step.
 4. Enjoy
 
-# If you need help or support ask me
+# If you need any help or support ask me!
 khan_salam@hotmail.com
