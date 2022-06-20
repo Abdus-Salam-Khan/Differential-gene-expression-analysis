@@ -25,6 +25,6 @@ A comprehensive analysis of differential gene expression matrix from The Cancer 
 4. Let's see the score using statistical cutoff of each gene in the resulting list. 
 
 # If you need any help and support ask me!
-khan_salam@hotmail.com
+salam.nurzai@gmail.com
 
 
